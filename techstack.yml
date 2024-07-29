@@ -1,0 +1,66 @@
+repo_name: paulocheloni/sd-06-project-shopping-cart
+report_id: 5998c73f1870c7b591c88268f85c6ec9
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-29T14:27:25+00:00'
+requested_by: jeanpsv
+provider: github
+branch: master
+detected_tools_count: 5
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/paulocheloni/sd-06-project-shopping-cart
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/paulocheloni/sd-06-project-shopping-cart
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/paulocheloni/sd-06-project-shopping-cart/blob/master/.eslintrc
+  detection_source: ".eslintrc"
+  last_updated_by: Jean Paulo Silva Vasconcelos
+  last_updated_on: 2020-08-31 15:05:28.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/paulocheloni/sd-06-project-shopping-cart
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/paulocheloni/sd-06-project-shopping-cart/blob/master/.github/workflows/main.yml
+  detection_source: ".github/workflows/main.yml"
+  last_updated_by: Jean Paulo Silva Vasconcelos
+  last_updated_on: 2020-08-31 15:05:33.000000000 Z
